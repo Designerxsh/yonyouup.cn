@@ -11,13 +11,13 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://summit.ufida.com/iosapp/manc.ipa</string>
+					<string>http://as.yonyouup.cn/resource/apps/apps/yxzs/yxzs.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.yonyouup.crmYunYing</string>
+				<string>com.yonyouup.yunxiaoTools</string>
 				<key>bundle-version</key>
 				<string>2.0</string>
 				<key>kind</key>
